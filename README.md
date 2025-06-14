@@ -40,26 +40,6 @@ Landing page moderna y responsiva para la aplicación BeautyBook, orientada a la
 ├── js/
 │   └── main.js
 ```
-
-## Bitácora de Cambios (Changelog)
-
-### 2024-06-14
-
-- Se completó la sección de **testimonios** con contenido realista y estilos mejorados.
-- Se agregó el formulario de registro con validación y notificación visual.
-- Se implementó la selección exclusiva en tarjetas de servicios y horarios.
-- Se mejoró la navegación suave y la animación de aparición de secciones.
-- Se actualizaron los textos y la estructura de todas las secciones principales.
-- Se revisó y optimizó el CSS para responsividad y experiencia de usuario.
-- Se modularizó el JavaScript en `main.js` para facilitar el mantenimiento.
-- Se eliminaron scripts duplicados en `index.html` y se centralizó la lógica en el archivo JS externo.
-
----
-
-## Créditos
-
-Desarrollado por el equipo de BeautyBook.
-
 ---
 
 ¿Tienes sugerencias o encontraste un error? ¡Contáctanos!
