@@ -24,6 +24,27 @@ Esta página presenta las ventajas de BeautyBook, permite a los dueños de peluq
 2. Abre `index.html` en tu navegador.
 3. No requiere backend ni dependencias externas.
 
+## Pruebas automatizadas
+
+Se realizaron pruebas end-to-end usando [Playwright](https://playwright.dev/):
+
+- Verifica que la página carga correctamente.
+- Comprueba que el título principal es visible.
+- Simula la navegación entre secciones.
+- (Puedes agregar más detalles según tus pruebas)
+
+Ejecuta las pruebas con:
+
+```sh
+npx playwright test
+```
+
+## Demo en línea
+
+Puedes ver la landing page funcionando aquí:  
+[https://hairdressing-website-two.vercel.app/](https://hairdressing-website-two.vercel.app/)
+
+
 # BeautyBook Landing Page
 
 ![Demo de BeautyBook](root.gif)
